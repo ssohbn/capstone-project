@@ -1,0 +1,14 @@
+html {
+	background-color: #d3d6ce;
+}
+
+.container {
+	background-color: #ecefe8;
+	border-style: double;
+	border-color: #d3d6ce;
+}
+
+.col {
+	border-style: dotted;
+	border-color: #d3d6ce;
+}
