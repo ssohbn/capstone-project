@@ -15,9 +15,18 @@ html {
 
 h1 {
 	color: #211f22;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+h2 {
+	margin-left: 6%;
+	margin-right: 5%;
 }
 
 p {
 	color: #211f22;
 	color: #69676a;
+	margin-left:5%;
+	margin-right: 5%;
 }
